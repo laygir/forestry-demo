@@ -79,5 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
-- _pages/testing-landing-page.html
-- _pages/index.md
+- index.md
+- testing-landing-page.html
